@@ -1,6 +1,6 @@
 # Welcome to EthHub
 
-The goal of EthHub is to provide a single source for essential Ethereum information. We attempt to accomplish this goal through three main areas:
+The goal of EthHub is to provide a single source for essential Ethereum information. We attempt to accomplish this goal through four main areas:
 
 1. [Learn](https://docs.ethhub.io) - Open source, easy to understand documentation
 2. [Listen](https://podcast.ethhub.io) - Into the Ether podcast
